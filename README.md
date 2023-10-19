@@ -6,6 +6,7 @@ Brayan Palma Aboytes
 # Objetivo general
 
 # Tabla de software utilizado
+
 |Id|Software|Version|Tipo|
 |1|Arduino|0.0.0|0|
 |2|...|...|...|
