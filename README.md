@@ -7,9 +7,9 @@ Brayan Palma Aboytes
 
 # Tabla de software utilizado
 
-|Id|Software|Version|Tipo|
-|1|Arduino|0.0.0|0|
-|2|...|...|...|
+Id|Software|Version|Tipo|
+1|Arduino|0.0.0|0|
+2|...|...|...|
 
 # Tabla con el hardware utilizado
 |Id|Componente|Descripcion|Imagen|Cantidad|Costo total|
