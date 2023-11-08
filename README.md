@@ -37,7 +37,7 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 
 # Prototipo en dibujo
 
-![Uploading image.png…]()
+![image](https://github.com/Tacodetripa/Personaje/assets/116208139/790db583-856b-4cbf-a3c5-ce3f2983af62)
 
 
 # Diagrama en Frintzing
