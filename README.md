@@ -19,14 +19,13 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 # Tabla con el hardware utilizado
 |Id|Componente|Descripcion|Imagen|Cantidad|Costo total|
 |-|-|-|-|-|-|
-|1| Arduino | Microcontrolador | | 1 | $15 |
-|2| Servo Motor MG90S | Motor para movimiento del reno | | 2 | $20 c/u|
+|1| Arduino | Microcontrolador | | 1 | $0 |
+|2| Motor paso a paso | Motor para movimiento del reno | | 4 | $160 c/u|
 |3| Cables y Soldador | Conexión eléctrica | | Los necesarios | $40 aprox |
-|4| Bateria Recargable |Fuente de alimentacion| | 1 | $50 |
-|5| Figura de Reno | Decoración del reno | | 1 | $45 |
-|6| Madera | Material para la base del reno | | Los necesarios | $100 |
-|7| Herramientas de construcción | Herramientas para ensamblar | | Las necesarias | $0 |
-|8|Buzzer|Reproductor de sonido||2|$50|
+|4| Figura de Reno | Decoración del reno | | 1 | $45 |
+|5| Madera | Material para la base del reno | | Los necesarios | $100 |
+|6| Herramientas de construcción | Herramientas para ensamblar | | Las necesarias | $0 |
+|7|Buzzer|Reproductor de sonido||2|$50|
 
 # Tabla de historia de usuario
 |Id|Historia de usuario|Prioridad|Estimacion|Como probarlO|Responsable|
@@ -38,7 +37,7 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 
 # Prototipo en dibujo
 
-![image](https://github.com/Tacodetripa/Personaje/assets/116208139/285a0933-a8d8-4b02-bee3-1b0b144a0a42)
+![Uploading image.png…]()
 
 
 # Diagrama en Frintzing
