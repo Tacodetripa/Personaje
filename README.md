@@ -1,6 +1,6 @@
 # ProjectPIoT2023
 # Personaje
-Reno navideno
+Reno navideño
 
 # Integrantes
 Brayan Palma Aboytes
@@ -14,6 +14,7 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 |-|-|-|-|
 |1 | Arduino | 1.8.13 | Programación |
 |2 | Python  | 3.7.3  | Lenguaje de programación|
+|3|Thonny|4.2.1|Programacion|
 
 # Tabla con el hardware utilizado
 |Id|Componente|Descripcion|Imagen|Cantidad|Costo total|
@@ -23,8 +24,9 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 |3| Cables y Soldador | Conexión eléctrica | | Los necesarios | $40 aprox |
 |4| Bateria Recargable |Fuente de alimentacion| | 1 | $50 |
 |5| Figura de Reno | Decoración del reno | | 1 | $45 |
-|6| Madera | Material para la base del reno | | Los necesarios | $20 |
-|7| Herramientas de construcción | Herramientas para ensamblar | | Las necesarias | $80 |
+|6| Madera | Material para la base del reno | | Los necesarios | $100 |
+|7| Herramientas de construcción | Herramientas para ensamblar | | Las necesarias | $0 |
+|8|Buzzer|Reproductor de sonido||2|$50|
 
 # Tabla de historia de usuario
 |Id|Historia de usuario|Prioridad|Estimacion|Como probarlO|Responsable|
