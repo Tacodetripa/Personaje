@@ -26,18 +26,18 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 |5| Madera | Material para la base del reno | | Los necesarios | $100 |
 |6| Herramientas de construcción | Herramientas para ensamblar | | Las necesarias | $0 |
 |7|Buzzer|Reproductor de sonido||2|$50|
+|8|Cable transparente|cable para amarrar las partes del reno||rollo|$50|
+|9|tira de focos|decoracion del reno||1 tira|$0|
+|10|madera|base del reno||1|$50|
+|11|papel cascaron|pared del reno||1|$50|
 
 # Tabla de historia de usuario
 |Id|Historia de usuario|Prioridad|Estimacion|Como probarlO|Responsable|
 |-|-|-|-|-|-|
 |1| Como usuario, quiero que el reno mueva la cabeza | Alta | 2 días | Observar que el reno gire la cabeza de manera autónoma | Brayan |
-|2| Como usuario, quiero que el reno mueva las patas | Alta | 3 días | Verificar que el reno realice movimientos coordinados de las patas | Brayan |
-|3| Como usuario, quiero que el reno emita sonidos festivos | Baja | 4 días | Escuchar que el reno produzca sonidos festivos | Brayan |
+|2| Como usuario, quiero que el reno emita sonidos festivos | Baja | 4 días | Escuchar que el reno produzca sonidos festivos | Brayan |
 
 
 # Prototipo en dibujo
 
-![image](https://github.com/Tacodetripa/Personaje/assets/116208139/790db583-856b-4cbf-a3c5-ce3f2983af62)
-
-
-# Diagrama en Frintzing
+![image](https://github.com/Tacodetripa/Personaje/assets/116208139/18656ea4-6c2d-4e9a-8e79-1cf0e40d9636)
