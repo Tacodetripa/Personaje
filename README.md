@@ -12,30 +12,37 @@ El objetivo de este proyecto es concebir, desarrollar y materializar un prototip
 
 |Id|Software|Version|Tipo|
 |-|-|-|-|
-|1 | Arduino | 1.8.13 | Programación |
-|2 | Python  | 3.7.3  | Lenguaje de programación|
-|3|Thonny|4.2.1|Programacion|
+|1|Thonny|4.2.1|Programacion|
 
 # Tabla con el hardware utilizado
 |Id|Componente|Descripcion|Imagen|Cantidad|Costo total|
 |-|-|-|-|-|-|
-|1| Arduino | Microcontrolador | | 1 | $0 |
-|2| Motor paso a paso | Motor para movimiento del reno | | 4 | $160 c/u|
-|3| Cables y Soldador | Conexión eléctrica | | Los necesarios | $40 aprox |
-|4| Figura de Reno | Decoración del reno | | 1 | $45 |
-|5| Madera | Material para la base del reno | | Los necesarios | $100 |
-|6| Herramientas de construcción | Herramientas para ensamblar | | Las necesarias | $0 |
-|7|Buzzer|Reproductor de sonido||2|$50|
-|8|Cable transparente|cable para amarrar las partes del reno||rollo|$50|
-|9|tira de focos|decoracion del reno||1 tira|$0|
-|10|madera|base del reno||1|$50|
-|11|papel cascaron|pared del reno||1|$50|
+|1| Motor paso a paso | Motor para movimiento del reno | | 4 | $60 c/u|
+|2| Cables DUPONT| Conexión eléctrica | | 120 | $70 |
+|3| Figura de Reno | Bocetaje del reno | | 1 | $50 |
+|4| Carton | Material para todo el reno | | 3 cajas | $50 |
+|5| Cuter | Herramienta para cortar | | 1 | $49 |
+|6|Buzzer|Reproductor de sonido||1|$60|
+|7|Tachuelas|ensamblar los engranes||1 caja|$40|
+|8|focos led|decoracion del reno||20 leds|$20|
+|9|Papel cascaron|base del reno||1/4|$20|
+|10|Silicon frio|pegamento para armar||1|$35|
+|11|Engranes|engranes para el funcionamiento del reno||3|$45|
+|12|sensor HC-SR04|Sensor para reproducir la melodia||1|$45|
+|13|Algodon|representacion de nieve||1 bolsa|$35|
+|14|Pinturas|decoracion del reno||4|$60|
+|15|Pinceles|herramienta para pintar||2|$25|
+|16|Pegamente liquido|pegamento para pegar||1|$32|
+|17|Placa ESP32|principal herramienta||1|$100|
+|18|Proto|herramienta para el circuito||1|$70|
+
 
 # Tabla de historia de usuario
 |Id|Historia de usuario|Prioridad|Estimacion|Como probarlO|Responsable|
 |-|-|-|-|-|-|
 |1| Como usuario, quiero que el reno mueva la cabeza | Alta | 2 días | Observar que el reno gire la cabeza de manera autónoma | Brayan |
-|2| Como usuario, quiero que el reno emita sonidos festivos | Baja | 4 días | Escuchar que el reno produzca sonidos festivos | Brayan |
+|2| Como usuario, quiero que el reno emita sonidos festivos | Alta | 4 días | Escuchar que el reno produzca sonidos festivos | Brayan |
+|3|Como usuario, quiero que el reno tenga iluminacion|Alta|2 dias|Observar que el reno tenga iluminacion|Brayan|
 
 
 # Prototipo en dibujo
